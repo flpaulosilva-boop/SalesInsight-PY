@@ -63,3 +63,22 @@ Os resultados são exportados para a pasta outputs.
 O arquivo vendas.csv utilizado neste projeto é uma base de
 análise. Antes de utilizar dados reais, verifique a qualidade,
 a autorização de uso e a proteção dos dados pessoais.
+
+
+## Visualização dos resultados
+
+### 1. Painel geral
+
+![Painel geral](outputs/graficos/painel_resumo.png)
+
+### 2. Quantidade de vendas versus receita
+
+![Quantidade versus receita](outputs/graficos/quantidade_vs_receita.png)
+
+### 3. Receita por mês
+
+![Receita por mês](outputs/graficos/receita_por_mes.png)
+
+### 4. Produtos em destaque
+
+![Produtos em destaque](outputs/graficos/top_produtos.png)
